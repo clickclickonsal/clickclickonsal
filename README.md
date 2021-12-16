@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🇩🇴  Software Engineer & Master of Pun
+- 💭 I write code that someday will be refactored.
+- 🔭 I’m currently working on [Seso](https://www.sesolabor.com/) to hep build a better labor marketplace for agriculture.
+- 🗣️ Ask me about code things & I will probably respond with a pun
+- 📫 Reach me on the [twitter](https://twitter.com/clickclickonsal)
+- ⚡ Fun fact: I've ran 1100+ miles in 2021
+
 <!--
 **clickclickonsal/clickclickonsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I've ran 1100+ miles in 2021
 -->
